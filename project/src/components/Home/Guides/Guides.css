@@ -1,0 +1,10 @@
+.comonli a{
+    color: tomato;
+}
+.curdCustoms{
+    transition: .3s;
+}
+
+.curdCustoms:hover{
+    transform: scale(1.1);
+}

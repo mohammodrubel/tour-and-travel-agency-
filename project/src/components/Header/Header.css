@@ -1,0 +1,13 @@
+.comonNav{
+    text-decoration: none;
+    margin: 0 20px;
+    color: white;
+}
+.headerpersonalphoto{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.backgroundHeader{
+    background: #01152c;
+}

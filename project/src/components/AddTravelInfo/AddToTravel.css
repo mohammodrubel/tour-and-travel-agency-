@@ -1,0 +1,6 @@
+.newTravel{
+    background:linear-gradient(rgba(0, 0, 0, 0.759),rgba(0, 0, 0, 0.759)),url(../img/travel.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,11 @@
+.customCard{
+    padding: 10px;
+    text-align: center;
+    transition: .3s;
+}
+.customCard h6{
+    color: #00162e;
+}
+.customCard:hover{
+    transform: scale(1.1);
+}

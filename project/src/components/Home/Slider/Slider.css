@@ -1,0 +1,29 @@
+.customBtn{
+    color: white;
+    background: #00162e;
+    border: none;
+    transition: .4s;
+    font-weight: 500;
+    border: 2px solid transparent;
+    margin-bottom: 20px;
+}
+
+.customBtn:hover{
+    color: black;
+    background: white;
+    border: 2px solid #00162e;
+    font-weight: 500;
+}
+
+
+
+.carousel-indicators [data-bs-target] {
+    color: #00162e!important;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color:#00162e;
+}
